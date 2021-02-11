@@ -1,4 +1,6 @@
 # hello-world
+
 A brand-new repository
-This is my first time ever learning writing code. 
-I am so excited to step by step learning to write code.
+
+Hello world. I like to learn Javascript and write code.
+I wish I could be the better code-writing person.
